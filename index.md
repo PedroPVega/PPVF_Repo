@@ -10,4 +10,5 @@ I use this repository as a portfolio/blog where I keep track of all my projects 
 - ### My personal projects
 
 If you wish to contact me, you can send an email to the following address : pedrop.vegaf@gmail.com
+
 I'll try to answer you as soon as possible!
