@@ -23,6 +23,7 @@ I studied at [La Prepa des INP](https://www.grenoble-inp.fr/fr/formation/la-prep
 - Physics (Classical, Thermodynamics, Optics, Electronics, EM fields, ...)
 - Organic Chemistry
 - Biology
+
 My second year major's were in maths & informatics, and my minor's were in engineering sciences & physics.
 
 ## 2014 - 2021
